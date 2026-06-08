@@ -1,3 +1,5 @@
+console.log("JS IS WORKING");
+document.body.style.background = "black";
 const cursor = document.querySelector(".cursor");
 const follower = document.querySelector(".cursor-follower");
 
